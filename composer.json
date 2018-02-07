@@ -1,6 +1,6 @@
 {
 	"name": "php-core",
-	"description": "",
+	"version": "1.0",
 	"autoload": {
 		"files": ["Core.php"]
 	},
