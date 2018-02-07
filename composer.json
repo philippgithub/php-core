@@ -1,0 +1,10 @@
+{
+	"name": "php-core",
+	"description": "",
+	"autoload": {
+		"files": ["Core.php"]
+	},
+	"require": {
+		"php": ">=5.6"
+	}
+}
