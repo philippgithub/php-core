@@ -1,5 +1,7 @@
 {
 	"name": "philippgithub/php-core",
+	"version": "1.0",
+	"homepage": "https://github.com/philippgithub/php-core",
 	"autoload": {
 		"files": ["Core.php"]
 	},
