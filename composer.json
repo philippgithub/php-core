@@ -1,7 +1,7 @@
 {
-	"name": "philippgithub/php-core",
+	"name": "madeinhamburg/php-core",
 	"version": "1.0",
-	"homepage": "https://github.com/philippgithub/php-core",
+	"homepage": "https://github.com/madeinhamburg/php-core",
 	"autoload": {
 		"files": ["Core.php"]
 	},
