@@ -2,7 +2,7 @@
 if (!class_exists("Core")) {
     class Core
     {
-        const VERSION = "1.0";
+        const VERSION = "1.2";
         private static $core;
 
         /**
