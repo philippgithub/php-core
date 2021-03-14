@@ -1,6 +1,6 @@
 {
 	"name": "madeinhamburg/php-core",
-	"version": "1.0",
+	"version": "1.2",
 	"homepage": "https://github.com/madeinhamburg/php-core",
 	"autoload": {
 		"files": ["Core.php"]
